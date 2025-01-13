@@ -1,3 +1,5 @@
+This is a fork of an existing project
+
 # META: DEFI-BOT
 
 ## Folder Structure
@@ -190,11 +192,11 @@
     "@0x/order-utils": "^10.2.4",
     "@truffle/hdwallet-provider": "^1.0.35",
     "@uniswap/sdk": "^3.0.3",
-    "axios": "^0.19.2",
+    "axios": "^1.7.9",
     "console.table": "^0.10.0",
     "cors": "",
     "dotenv": "^8.2.0",
-    "ejs": "^2.5.6",
+    "ejs": "^3.1.10",
     "express": "^4.15.2",
     "infura-web3-provider": "0.0.3",
     "lodash": "^4.17.15",
@@ -211,14 +213,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/codemedici/defi.git"
+    "url": "git+git@github.com:jasonnathan/defi-bot"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/codemedici/defi/issues"
+    "url": "git@github.com:jasonnathan/defi-bot/issues"
   },
-  "homepage": "https://gitlab.com/codemedici/defi#readme"
+  "homepage": "git@github.com:jasonnathan/defi-bot#readme",
+  "author": "Jason Joseph Nathan<jjnathanjr@gmail.com>"
 }
 
 ```
@@ -226,6 +227,8 @@
 ## Git Repository
 
 ```plaintext
-origin	git@github.com:ExtropyIO/defi-bot.git (fetch)
-origin	git@github.com:ExtropyIO/defi-bot.git (push)
+origin  git@github.com:jasonnathan/defi-bot (fetch)
+origin  git@github.com:jasonnathan/defi-bot (push)
+upstream        git@github.com:ExtropyIO/defi-bot.git (fetch)
+upstream        git@github.com:ExtropyIO/defi-bot.git (push)
 ```
